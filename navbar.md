@@ -1,0 +1,8 @@
+- 新茶网站
+  - [新茶博客](https://cospi.tk)
+  - [新茶云盘](https://pan.newtea.ml)
+- 友情链接
+  - [瑞治导航站](https://costg.cf)
+  - [瑞治下载站](https://res.costg.cf)
+  - [榆闲短链](https://go.costg.cf)
+  - [考场时钟](https://time.costg.cf)
