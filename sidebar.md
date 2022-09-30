@@ -1,2 +1,15 @@
-- 入门
-  - [概述](start/index.md)
+- 概述
+  - [校园电脑常见问题解决指南](start/index.md)
+  - [联系我们](start/contact.md)
+- 办公文档阅读
+  - [Office 的安装](doc/office-install.md)
+  - [Office 的激活](doc/office-activate)
+  - [PDF阅读器](doc/pdf.md)
+- 网络和驱动
+  - [修改电脑IP](net/ip.md)
+  - [驱动安装](net/drivers.md)
+- 硬件
+  - [扬声器和班级喇叭](hardware/sound.md)
+- 系统
+  - [激活windows](sys/activate.md)
+  - [重装系统](sys/restore.md)
