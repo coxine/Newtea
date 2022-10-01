@@ -13,5 +13,6 @@
 - 系统
   - [激活windows](sys/activate.md)
   - [重装系统](sys/restore.md)
+  - [常用软件推荐](sys/recommendations.md)
 - 疑难杂症
   - [英语课文录音无法播放](knotty/text-record.md)
