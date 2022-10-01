@@ -21,6 +21,7 @@
   <meta name="description" content="新茶电委会，致力于SES的信息化建设。" />
   <meta name="keywords" content="指南,操作指南,操作说明,新茶系统,新茶会,新茶电委会" />
   <script src="/cdn.min.js"></script>
+  <script src="/ghedit.js"></script>
 </head>
 
 <body>
@@ -40,6 +41,11 @@
       themeColor: "#AEDD81",
       homepage: "start/index.md",
       name: "<b>Newtea</b>操作指南",
+      plugins: [
+        EditOnGithubPlugin.create(
+          "https://github.com/coxine/Newtea/blob/main/","","在Github上编辑"
+          ),
+      ],
     };
   </script>
   <!-- Docsify v4 -->
