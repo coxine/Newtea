@@ -4,7 +4,7 @@
 - 办公文档阅读
   - [Office 的安装](doc/office-install.md)
   - [Office 的激活](doc/office-activate)
-  - [PDF阅读器](doc/pdf.md)
+  - [PDF](doc/pdf.md)
 - 网络和驱动
   - [修改电脑IP](net/ip.md)
   - [驱动安装](net/drivers.md)
