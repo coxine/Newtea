@@ -1,0 +1,16 @@
+{
+    "name": "校园电脑疑难解答",
+    "short_name": "疑难解答",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#114514",
+    "description": "本站罗列了班级电脑出现的常见问题及其解决方案，支持离线查阅~",
+    "background_color": "#AEDD81",
+    "icons": [
+      {
+        "src": "pwaicon.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
