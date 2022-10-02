@@ -55,10 +55,11 @@
       navigator.serviceWorker.register('/sw.js')
     }
     //小美化
-    window.onload = function(){
+    onloadf=document.addEventListener("load",function(){
       $(".active").setAttribute("style","box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;");
       $(".active").firstChild.setAttribute("style","margin-left:30px");
-    }
+      document.removeEventListener("load")
+    })
 
   </script>
 </body>
