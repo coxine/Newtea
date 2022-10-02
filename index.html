@@ -55,8 +55,10 @@
       navigator.serviceWorker.register('/sw.js')
     }
     //小美化
-    $(".active").setAttribute("style","box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;")
-    $(".active").firstChild.setAttribute("style","margin-left:30px")
+    window.onload = function(){
+      $(".active").setAttribute("style","box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;");
+      $(".active").firstChild.setAttribute("style","margin-left:30px");
+    }
 
   </script>
 </body>
