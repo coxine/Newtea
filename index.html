@@ -55,11 +55,10 @@
       navigator.serviceWorker.register('/sw.js')
     }
     //小美化
-    onloadf=document.addEventListener("load",function(){
-      document.getElementsByClassName("active")[0].setAttribute("style","box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;");
-      document.getElementsByClassName("active")[0].firstChild.setAttribute("style","margin-left:30px");
-      document.removeEventListener("load")
-    })
+window.onload=function (){
+  var userName=”xiaoming”;
+  alert(userName);
+}
 
   </script>
 </body>
