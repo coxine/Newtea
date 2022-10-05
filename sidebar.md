@@ -6,15 +6,16 @@
   - [Office 的激活](doc/office-activate)
   - [PDF](doc/pdf.md)
 - 网络和驱动
-  - [修改电脑IP](net/ip.md)
+  - [修改电脑 IP](net/ip.md)
   - [驱动安装](net/drivers.md)
 - 硬件
   - [扬声器和班级喇叭](hardware/sound.md)
 - 系统
-  - [激活windows](sys/activate.md)
+  - [激活 windows](sys/activate.md)
   - [重装系统](sys/restore.md)
 - 疑难杂症
   - [英语课文录音无法播放](knotty/text-record.md)
+  - [极域学生端相关](knotty/jiyu.md)
 - 附录
   - [常用软件](appendix/recommendations.md)
   - [学习资源目录](appendix/learnres.md)

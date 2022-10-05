@@ -2,7 +2,8 @@
 
 新茶 ™ 系统内集成了 CentBrowser/Microsoft Edge，可直接阅读 PDF，若想获得更高级的功能，请下载并安装 Adobe Acrobat。
 
-> 下载地址：<https://www.123pan.com/s/cSzA-qtiJ>
+> 下载地址: <https://www.123pan.com/s/cSzA-qtiJ>  
+> 备用地址: <https://res.costg.cf/%E5%BA%94%E7%94%A8/Adobe/Adobe%20Acrobat%202021.7z>
 
 ## 安装 Adobe Acrobat
 
