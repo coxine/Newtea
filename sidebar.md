@@ -15,8 +15,8 @@
   - [重装系统](sys/restore.md)
 - 疑难杂症
   - [英语课文录音无法播放](knotty/text-record.md)
-  - [极域学生端相关](knotty/jiyu.md)
+  - [极域学生端](knotty/jiyu.md)
 - 附录
   - [常用软件](appendix/recommendations.md)
-  - [学习资源目录](appendix/learnres.md)
-  - [本站所有下载链接汇总](appendix/download.md)
+  - [学习资源](appendix/learnres.md)
+  - [本站下载链接汇总](appendix/download.md)
